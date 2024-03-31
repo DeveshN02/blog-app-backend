@@ -1,0 +1,20 @@
+{
+  "name": "project_03-blog-app",
+  "version": "1.0.0",
+  "description": "Blog app backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Devesh"
+  ],
+  "author": "Devesh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.2.4",
+    "nodemon": "^3.1.0"
+  }
+}
